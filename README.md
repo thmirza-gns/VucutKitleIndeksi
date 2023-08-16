@@ -2,19 +2,17 @@
 # Body Mass Index Calculator (BMI) Tool (For Now It Is Only Available In Turkish)
 
 
-
                                       ÖNEMLİ!
 
-	Bu ölçek yetişkinler içindir, kas kütlesi ve yağ dağılımını dikkate almamaktadır.
-	Ayrıca çocuklar ve hamileler için yapılacak olan hesaplamaların isabetsiz
-	olabileceği göz önünde bulundurulmalıdır.
-
-	Vücut Kitle İndeksi ölçümü, bir kişinin kilogram cinsinden ağırlığını metre kare
-	cinsinden boyuna bölerek 'sağlıklı' bir kiloda olup olmadığını belirleyen matematiksel
-	bir formüle dayanmaktadır ve yaş, cinsiyet, genetik, beslenme, hayat tarzı, tıbbi
-	geçmiş ya da diğer faktörlerden bağımsız olarak hesaplanmaktadır. VKİ, kişinin
-	sağlıklı olup olmadığına karar vermek için kullanılmamalıdır.
-
+	Bu ölçek yetişkinler içindir. Vücut Kitle İndeksi ölçümü, bir kişinin kilogram
+ 	cinsinden ağırlığını metre kare	cinsinden boyuna bölerek 'sağlıklı' bir kiloda
+  	olup olmadığını belirleyen matematiksel	bir formüle dayanmaktadır.
+	
+	VKİ, yaş, cinsiyet, genetik, beslenme, hayat tarzı, tıbbi geçmiş ya da diğer
+ 	faktörlerden bağımsız olarak hesaplanmakta ve kas kütlesi ile yağ dağılımını
+  	dikkate almamaktadır. Ayrıca çocuklar ve hamileler için yapılacak olan
+   	hesaplamaların isabetsiz olabileceği göz önünde bulundurulmalıdır.
+    	VKİ, kişinin sağlıklı olup olmadığına karar vermek için kullanılmamalıdır.
 
 
 Araç C dilinde hazırlanmış olup konsol üzerinde çalışmaktadır. Kullanıcıdan alınan kilogram ve santimetre cinsinden girdiler kg/m^2 formulü ile Vücut Kitle İndeksi Hesaplanmasında kullanılır.
