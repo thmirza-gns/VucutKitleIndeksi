@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 ÖNEMLİ!
 
 Bu ölçek yetişkinler içindir. Vücut Kitle İndeksi ölçümü, bir kişinin kilogram
@@ -20,7 +24,7 @@ VKİ, kişinin sağlıklı olup olmadığına karar vermek için kullanılmamal�
 
 
 Araç C dilinde hazırlanmış olup konsol üzerinde çalışmaktadır. Kullanıcıdan alınan kilogram ve santimetre cinsinden girdiler kg/m^2 formulü ile Vücut Kitle İndeksi Hesaplanmasında kullanılır.
-Kullanıcıya içerisinde bulunduğu vki aralığına göre değerlendirmeler ve tavsiyeler verir.
+Kullanıcıya içerisinde bulunduğu vki aralığına göre tavsiyeler vermekte ve değerlendirmeler yapmaktadır.
 
 Program ücretsizdir ve GNU General Public License v3.0 açık kaynak lisansına sahiptir.
 
