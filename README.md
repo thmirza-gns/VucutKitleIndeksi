@@ -8,10 +8,10 @@
 	olabileceği göz önünde bulundurulmalıdır.
 
 	Vücut Kitle İndeksi ölçümü, bir kişinin kilogram cinsinden ağırlığını metre kare
-	cinsinden boyuna bölerek 'sağlıklı' bir kiloda olup olmadıgını belirleyen matematiksel
+	cinsinden boyuna bölerek 'sağlıklı' bir kiloda olup olmadığını belirleyen matematiksel
 	bir formüle dayanmaktadır ve yaş, cinsiyet, genetik, beslenme, hayat tarzı, tıbbi
 	geçmiş ya da diğer faktörlerden bağımsız olarak hesaplanmaktadır. VKİ, kişinin
-	saglıklı olup olmadığına karar vermek için kullanılmamalıdır.
+	sağlıklı olup olmadığına karar vermek için kullanılmamalıdır.
 
 
 
