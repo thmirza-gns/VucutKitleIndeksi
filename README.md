@@ -2,7 +2,8 @@
 # Body Mass Index Calculator (BMI) Tool (For Now it is Only Available in Turkish)
 
 
-                		ÖNEMLİ!
+
+#                                  ÖNEMLİ!
 
 Bu ölçek yetişkinler içindir. Vücut Kitle İndeksi ölçümü, bir kişinin kilogram
 cinsinden ağırlığını metre kare	cinsinden boyuna bölerek 'sağlıklı' bir kiloda
