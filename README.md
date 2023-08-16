@@ -8,7 +8,7 @@
  	cinsinden ağırlığını metre kare	cinsinden boyuna bölerek 'sağlıklı' bir kiloda
   	olup olmadığını belirleyen matematiksel	bir formüle dayanmaktadır.
 	
-	VKİ, yaş, cinsiyet, genetik, beslenme, hayat tarzı, tıbbi geçmiş ya da diğer
+	VKİ yaş, cinsiyet, genetik, beslenme, hayat tarzı, tıbbi geçmiş ya da diğer
  	faktörlerden bağımsız olarak hesaplanmakta ve kas kütlesi ile yağ dağılımını
   	dikkate almamaktadır. Ayrıca çocuklar ve hamileler için yapılacak olan
    	hesaplamaların isabetsiz olabileceği göz önünde bulundurulmalıdır.
