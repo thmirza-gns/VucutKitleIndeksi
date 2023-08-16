@@ -1,5 +1,4 @@
 # Vücut Kitle İndeksi (VKİ) Hesaplama Aracı
-# / 
 # Body Mass Index Calculator Tool (in Turkish Language Only For Now)
 
 
