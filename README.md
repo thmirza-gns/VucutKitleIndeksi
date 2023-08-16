@@ -1,4 +1,4 @@
-# Vücut Kitle Indeksi (VKİ) Hesaplama Aracı
+# Vücut Kitle İndeksi (VKİ) Hesaplama Aracı
 
 
                                       ÖNEMLİ!
