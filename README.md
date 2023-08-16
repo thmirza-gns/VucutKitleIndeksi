@@ -14,7 +14,6 @@
    	hesaplamaların isabetsiz olabileceği göz önünde bulundurulmalıdır.
     	VKİ, kişinin sağlıklı olup olmadığına karar vermek için kullanılmamalıdır.
 
-
 Araç C dilinde hazırlanmış olup konsol üzerinde çalışmaktadır. Kullanıcıdan alınan kilogram ve santimetre cinsinden girdiler kg/m^2 formulü ile Vücut Kitle İndeksi Hesaplanmasında kullanılır.
 Kullanıcıya içerisinde bulunduğu vki aralığına göre değerlendirmeler ve tavsiyeler verir.
 
